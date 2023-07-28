@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/D6R9LKDukQQ0qDWAeCYKO/35fZLR1E65SkWUOspLWSMJVC+qOf4/nyLHi8hlVUDsnbEk5qF072SwzWY6vCzg==",
+  "success": true,
+  "projectFilePath": "C:\\Turnos\\Turnos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lautaro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lautaro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
