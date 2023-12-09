@@ -4,8 +4,8 @@ namespace Turnos.Models
 {
     public class TurnosContext : DbContext
     {
-        public TurnosContext(DbContext<TurnosContext> opciones)
-        : base(opciones)
+        public TurnosContext(DbContextOptions<TurnosContext> opciones)
+            : base(opciones)
         {
 
         }
